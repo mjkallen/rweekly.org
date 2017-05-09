@@ -93,8 +93,11 @@ Statistical Data Analysis for Genome-Scale Biology teaches statistical and compu
 + [angletR 2017](http://angletr2017.com/) **June 28 - 30, 2017** <br/>
 angletR aims to provide a national forum to exchange and share ideas on the use of R in different subjects such as visualisation, applied statistics, biostatistics and bioinformatics, Bayesian statistics, data analysis, Big Data, modelling, machine learning, high performance computing, etc.
 
-<!--+ [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />
+<!--+ [useR! 2017](http://user2017.brussels/) **July 4 - 7, 2017** <br />
 The annual useR! conference is the main meeting of the international R user and developer community.-->
+
+<!--+ [RIOT 2017](http://riotworkshop.github.io/) **July 5, 2017** <br />
+A one-day workshop collocated with the useR! 2017 conference in Brussels with a focus on different R implementations.-->
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
